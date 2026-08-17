@@ -98,6 +98,28 @@ function Members() {
                     <ul className="dropdown-content">
                       <li>
                         <Link
+                          to="/member"
+                          onClick={() => {
+                            toggleSidebar();
+                            scrollToTop();
+                          }}
+                        >
+                          Session 2026-27
+                        </Link>
+                      </li>
+                      <li>
+                        <Link
+                          to="/member/members2025-26"
+                          onClick={() => {
+                            toggleSidebar();
+                            scrollToTop();
+                          }}
+                        >
+                          Session 2025-26
+                        </Link>
+                      </li>
+                      <li>
+                        <Link
                           to="/member/members2023-24"
                           onClick={() => {
                             toggleSidebar();
@@ -156,7 +178,7 @@ function Members() {
                 </li>
 
                 <Link
-                  to="/member"
+                  to="/member/members2024-25"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -165,7 +187,7 @@ function Members() {
                   <li>Governing Body 2024-25</li>
                 </Link>
                 <Link
-                  to="/member/Advisory"
+                  to="/member/members2024-25/Advisory"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -180,7 +202,7 @@ function Members() {
               <h2>Intiatives</h2>
               <ul>
                 <Link
-                  to="/member/jvm"
+                  to="/member/members2024-25/jvm"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -192,7 +214,7 @@ function Members() {
                   </li>
                 </Link>
                 <Link
-                  to="/member/Rise"
+                  to="/member/members2024-25/Rise"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
@@ -204,7 +226,7 @@ function Members() {
                   </li>
                 </Link>
                 <Link
-                  to="/member/LiGHT"
+                  to="/member/members2024-25/LiGHT"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();

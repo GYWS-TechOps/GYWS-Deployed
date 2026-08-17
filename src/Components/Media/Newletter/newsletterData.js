@@ -1,4 +1,47 @@
 const newsletterData = [
+    
+    {
+        title: "PRATIRAV, OCTOBER - DECEMBER, 2025 EDITION",
+        description: "We present the October-December, 2025 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/PRATIRAV- October - December 2025.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Oct_Dec_2025.jpeg"
+    },
+    {
+        title: "PRATIRAV, JULY - SEPTEMBER, 2025 EDITION",
+        description: "We present the July-September, 2025 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/PRATIRAV- July-September 2025.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Jul_Sep_2025.jpeg"
+    },
+    {
+        title: "PRATIRAV, APRIL-JUNE, 2025 EDITION",
+        description: "We present the April-June, 2025 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/Pratirav_Apr_Jun_2025.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Apr_Jun_2025.jpeg"
+    },
+    {
+        title: "PRATIRAV, JANUARY-MARCH, 2025 EDITION",
+        description: "We present the January-March, 2025 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/Pratirav_Jan_Mar_2025.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Jan_Mar_2025.jpeg"
+    },
+    {
+        title: "PRATIRAV, OCTOBER-DECEMBER, 2024 EDITION",
+        description: "We present the October-December, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/Pratirav_Oct_Dec_2024.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Oct_Dec_2024.png"
+    },
+    {
+        title: "PRATIRAV, JULY-SEPTEMBER, 2024 EDITION",
+        description: "We present the July-September, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/Pratirav Jul-Sep 2024.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Jul_Sep_2024.png"
+    },
+    {
+        title: "PRATIRAV, APRIL-JUNE, 2024 EDITION",
+        description: "We present the April-June, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",
+        link: "/assets/pdf/pratirav/Pratirav Apr-Jun 2024.pdf",
+        imageUrl: "/assets/pratirav/Pratirav_Apr_Jun_2024.png"
+    },
     {
         title: "PRATIRAV, JANUARY-MARCH, 2024 EDITION",
         description: "We present the January-March, 2024 edition of our Quarterly Newsletter 'Pratirav'. A glance at the newsletter would let you know all the initiatives undertaken by us and the progress made in this duration.",

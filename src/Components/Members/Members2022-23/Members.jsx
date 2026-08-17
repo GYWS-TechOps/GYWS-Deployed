@@ -95,7 +95,29 @@ function Members() {
                     <ul className="dropdown-content">
                       <li>
                         <Link
-                          to="/member/"
+                          to="/member"
+                          onClick={() => {
+                            toggleSidebar();
+                            scrollToTop();
+                          }}
+                        >
+                          Session 2026-27
+                        </Link>
+                      </li>
+                      <li>
+                        <Link
+                          to="/member/members2025-26"
+                          onClick={() => {
+                            toggleSidebar();
+                            scrollToTop();
+                          }}
+                        >
+                          Session 2025-26
+                        </Link>
+                      </li>
+                      <li>
+                        <Link
+                          to="/member/members2024-25"
                           onClick={() => {
                             toggleSidebar();
                             scrollToTop();
@@ -153,7 +175,7 @@ function Members() {
                   )}
                 </li>
                 <Link
-                  to="/member/members2022-23/"
+                  to="/member/members2022-23"
                   onClick={() => {
                     toggleSidebar();
                     scrollToTop();
