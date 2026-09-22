@@ -10,6 +10,11 @@ const tableData = [
         position: 'GENERAL SECRETARY'
     },
     {
+        srNo: 3,
+        name: 'KARTIK THAKKER',
+        position: 'VICE PRESIDENT'
+    },
+    {
         srNo: 4,
         name: 'SAURAV KUMAR NISHANT',
         position: 'ASSISTANT SECRETARY'
