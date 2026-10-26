@@ -1,8 +1,8 @@
 const data = [
     {
-        name: "Mrinal Kanti Bhanja",
+        name: "Prof. N R Mandal",
         position: "PRESIDENT",
-        imageUrl: "/assets/images/members/dada.jpg",
+        imageUrl: "/images/founder.webp",
         facebookLink: "https://www.facebook.com/gyws.iitkgp",
         linkedinLink: "https://www.linkedin.com/company/gopali-youth-welfare-society/mycompany/"
     },

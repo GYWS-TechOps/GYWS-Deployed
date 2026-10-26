@@ -17,22 +17,22 @@ export default function Foundersmsg() {
       <div className="msg-container-about">
         <div className="msg-container-about-card">
           <div className="founder-image">
-            <img src="./images/founder.jpg" alt="Founder" className='founderimg' />
+            <img src="/images/founder.webp" alt="Founder" className='founderimg' />
           </div>
           <div className="founder-about">
-            <h2>Mr. Mrinal Kanti Bhanja</h2>
+            <h2>Prof. N R Mandal</h2>
             <h3>Founder (Gopali Youth Welfare Society)</h3>
           </div>
           <div className="msg-container-links">
             <a href='mailto:gywsociety@gmail.com'>
               <EnvelopeFill />
             </a>
-            <a href='https://www.facebook.com/mrinalkbhanja'>
+            <button style={{background:'none',border:'none',cursor:'default',padding:0}}>
               <Facebook />
-            </a>
-            <a href="https://www.linkedin.com/in/mrinal-bhanja-78761038/">
+            </button>
+            <button style={{background:'none',border:'none',cursor:'default',padding:0}}>
               <Linkedin />
-            </a>
+            </button>
           </div>
         </div>
         <div className="description">

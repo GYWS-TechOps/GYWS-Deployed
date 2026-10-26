@@ -50,7 +50,7 @@ const FAQs = [
   },
   {
     question: 'Why is the society named \'Gopali Youth Welfare Society\'?',
-    answer: 'The NGO took shape to uplift the youth from the village of Gopali, located close to IIT Kharagpur campus. Our Founder- Mr. Mrinal Kanti Bhanja, a localite sowed the seeds of GYWS for the welfare of the people of Gopali along with some socially motivated students from IIT-KGP, back in 2002.',
+    answer: 'The NGO took shape to uplift the youth from the village of Gopali, located close to IIT Kharagpur campus. Our Founder- Prof. N R Mandal, a localite sowed the seeds of GYWS for the welfare of the people of Gopali along with some socially motivated students from IIT-KGP, back in 2002.',
   },
   {
     question: 'Is the website safe to make online payments?',

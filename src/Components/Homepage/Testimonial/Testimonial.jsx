@@ -51,18 +51,11 @@ export default function TestiMonial() {
         " Having attended some GYWS events, the determination of the students to make a change amazes me. This is worth applause that they have taken the initiative to work for the underprivileged. I feel privileged to have such students in the campus who seek to give back to the society. Hope to see GYWS as well as other students come forward with more such initiatives.",
     },
     {
-      name: "Mr. Mrinal Kanti Bhanja",
+      name: "Prof. N R Mandal",
       post: "Founder, Gopali Youth Welfare Society",
-      img: "assets/images/home/testimg/Mrig.jpg",
+      img: "/images/founder.webp",
       statement:
         "   Gopali Youth Welfare Society (GYWS) was established with the  objectives of making people aware of problems faced by the modern society. It also aims at helping people's social, economic and cultural development and encouraging them to find out solutions to their problems on the basis of locally available resources.",
-    },
-    {
-      name: "Prof. N R Mandal",
-      post: " Ex-Professor, Ocean Engineering and Naval Architecture,                   Ex-Dean SA, IIT Kharagpur",
-      img: "assets/images/home/testimg/NR.jpg",
-      statement:
-        "   The fact that a group of students of IIT Kharagpur run a               fully-fledged NGO leaves me filled with immense pride. As an advisory committee member of GYWS and having closely  observed all their activities. They are breaking the trends which see IITians aiming at bagging high salary jobs as soon as they enter the campus. These people are contributing back to the society and their contribution is making a difference.",
     },
     {
       name: "MR. Sailesh Gandhi",

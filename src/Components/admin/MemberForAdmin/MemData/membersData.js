@@ -5,7 +5,7 @@ export const getMembersData=async ()=>{
         let data=[
             {
                 srNo: 1,
-                name: 'Mrinal Kanti Bhanja',
+                name: 'Prof. N R Mandal',
                 position: 'PRESIDENT',
                 image: "imgLink",
                 linkedIn: "link",

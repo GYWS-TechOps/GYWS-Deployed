@@ -1,7 +1,7 @@
 const tableData = [
     {
         srNo: 1,
-        name: 'Mrinal Kanti Bhanja',
+        name: 'Prof. N R Mandal',
         position: 'PRESIDENT'
     },
     {
