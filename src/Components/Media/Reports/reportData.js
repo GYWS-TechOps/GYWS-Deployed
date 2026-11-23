@@ -35,45 +35,6 @@ const reportData = [
         ]
     },
     {
-        title: "Impact Report",
-        class: "impact-report",
-        summary: "It represents our final performance update on our annual targets and their impact",
-        button: [
-            {
-                interval: "2025-26",
-                link: "/assets/pdf//Impact_report/Impact report 2025-26.pdf"
-            },
-            {
-                interval: "2022-23",
-                link: "/assets/pdf//Impact_report/Impact Report 2022-2023 (1).pdf"
-            },
-            {
-                interval: "2021-22",
-                link: "/assets/pdf/Impact_report/Impact Report 2021-22.pdf"
-            },
-            {
-                interval: "2020-21",
-                link: "/assets/pdf/Impact_report/Impact Report 2020-21.pdf"
-            },
-            {
-                interval: "2019-20",
-                link: "/assets/pdf/Impact_report/Impact Report 19-20.pdf"
-            },
-            {
-                interval: "2018-19",
-                link: "/assets/pdf/Impact_report/Impact Report 2018-19.pdf"
-            },
-            {
-                interval: "2017-18",
-                link: "/assets/pdf/Impact_report/Impact_Report_2017-18.pdf"
-            },
-            {
-                interval: "2016-17",
-                link: "/assets/pdf/Impact_report/Impact_Report_2016-17.pdf"
-            }
-        ]
-    },
-    {
         title: "Quaterly Finance Reports",
         class: "quaterly-finance-report",
         summary: "Statement of expenses and donations received for Quarterly Finance Reports",
